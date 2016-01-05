@@ -1,0 +1,13 @@
+Total bytes of sent: 38286860 Bytes
+Total bytes of received: 38284780 Bytes
+Total bytes of forwarded: 0 Bytes
+Total bytes of dropped: 18791240 Bytes
+Throughput ratio: 76 Packets/s
+Data dropped ratio: 37 Packets/s
+Overhead: 153976 Bytes
+Layer:
+AGT - application: 75778
+RTR - routing: 115129
+LL - link layer: 0
+MAC - mac: 0
+PHY - physical: 0
